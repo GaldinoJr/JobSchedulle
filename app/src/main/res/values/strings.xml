@@ -1,5 +1,5 @@
 <resources>
-    <K name="app_name">JobSchedulle</K>
+    <string name="app_name">JobSchedulle</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>

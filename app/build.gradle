@@ -27,4 +27,10 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+
+    compile 'de.greenrobot:eventbus:2.4.0'
+    compile 'me.tatarka.support:jobscheduler:0.1.1'
+
+    compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+
 }
