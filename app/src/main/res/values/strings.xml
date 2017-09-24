@@ -1,0 +1,9 @@
+<resources>
+    <K name="app_name">JobSchedulle</K>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_app">Example JobScheduler</string>
+    <string name="bt_job_scheduler_label">Execute Job</string>
+    <string name="bt_job_scheduler_label_cancel">Cancel</string>
+</resources>
